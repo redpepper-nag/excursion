@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
+h1.title{
+    font-size: 50px;
+}
+
+p.fake-link{
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+h2{
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p.tagline{
+    color: grey;
+    font-size: 21px;
+}
+
+footer{
+    text-align: right;
+    color: grey;
+}
